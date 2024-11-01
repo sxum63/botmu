@@ -1,0 +1,7 @@
+App.Ecommerce/Properties/PublishProfiles/Beta.pubxml.user
+App.Ecommerce/Properties/PublishProfiles/Live.pubxml.user
+obj
+bin
+App.Ecommerce/wwwroot/dynamicContent/font-face.css
+.vs
+packages
