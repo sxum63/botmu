@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "auto-reset-muonline",
+  "private_key_id": "e3bf3baae2c3fc3589afeb1911861f7394f14601",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC3oP5kX9jvjBW1\n4c/dupnq17pS4jqPzxf+6WcpFowazyAg2JuiHfkJGpWmXD5KqB7CKaX87l38j6io\n5XpJuzVdk9HqtIqRaSB1J5nclPEboqBqWLuEGL+0/VkG7lIFCwszR3WTa9Cbn0Bb\n/Sw43aFQP+18zlxlWBeOWSxmidPlqd5O07G1F6kxV36W2GYMsRBIGwaaXZgI9wn/\n/U99joOZ1Y5sDtBF5NJ65idvL++W5q0Wtgg5oXJ3rXOfhTnv+h4vJuBlo69LtmfY\nxS4gdG6LCC4CgGX6qI+lW0VoSGlsFQgSSTAdCRaEiCrVbGOLgi38WGkl2CAP715Q\ntR6qrYeJAgMBAAECggEANx0U/V9fJxaudXafAve8tqWlALdxyDPqCdJX6hcgWfOM\nuw8INzIzyq21+MZ608F96dzCOxX4E5OylW66s2KC8+EoAf/KDza0TTVjkrcJXrgC\n2ahkL5OWBmZ7z/67k1PrOqrZ+TNE21CC6pkkKrUqc4Gcb/cn+Crmdw0ArI31kVpU\n0DDQ4gWQDVyRxwcHk7FvowLLdxMAKuIpDE44tiddoHVdFnokj8xN6t9jQK7ZrIp5\ntcbVaEWkcCA9/Nb6gM1JN3549zLsTapqTFVXmjFdTZfy3E5T39qwbDClcgNQpxVX\nmVIQztBSjG5iQ6LwkI/axl6/ZVhaw8G+Qc4porsNuQKBgQD+kl5+lkbctiI2/8lB\nhSFV/e58chDKS6a7L8Wc+8Lr4TT1V8rhWJpbHuZhFgz0CJruTL8Q0B3nBGVbeo1Z\nYt7QwcirmWIvO9TDjOGl4KEgwnVgnt0HvOGr3cQzfxyIzJdZrtCM9CJ0DYu0/1eB\nDFV0BAyrCFbntEwX7B0MVeu1hwKBgQC4qLt3H+CFBLASasXB+PVvAbPIXp4T3Uy3\neMtFcEbEXTLqZbi9eL7fsj5tF5fTCS3cMu8/DpRFvxIU5xVnNF/3zlufkzoJSCXW\n6f8f0zfCGMewNPOqsANTne3Uu6LMKJ1Fqc6pwoMh1+G+t/Ml3hlKgjt6LVV9OwQo\nExBwcSwebwKBgEltQHI0uDW7Fv1UI+GRG79o4dvlLrCax3mgWthfyaYtrA/EBdGf\ns83qiLqiGJRe0wk++7FGxgk3PGD5ZUHOAcSm0FGmiSpkkIbi4MbulqsTS7XVvJ0Z\nvuHKsmfEFx/iGxmUEbVGSZW9vnkzWTLwsskmzdybKC3m1DfmM662LamLAoGBAKGL\nEz0aiPs1Z6ck+04/Ms9i6NmwVJBCOFwFc6aSm4YrlmBSjvRKjoj50Pz09+AqFpGd\niYlbgsElb3cT1biMrCwIvkTysoHuORQzbvpzeEL4FLGFEWnQQ4jCD47ce4YpPbT0\n4ZPHU5qm1plXKYKGMw/osImo4TIGEBPS4b3Mc/FHAoGAGhn0inU3HvAb+apAQhS7\nbdUpnOpH5kaylFD11kCfjlDxATDLyRqJ4aPM4X0mgYbdtN+fNrzrES4Nhe8mHRYl\nhnDDyoYe6KWpBwbwp9kfE3zIA1DeVnvACPr4wLBnoLuGbrgIvLRIfbbHL1XLIEvS\npMY7R5klAOarr0HgnWHlAY4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "autors-admin@auto-reset-muonline.iam.gserviceaccount.com",
+  "client_id": "105820338459329827233",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/autors-admin%40auto-reset-muonline.iam.gserviceaccount.com"
+}

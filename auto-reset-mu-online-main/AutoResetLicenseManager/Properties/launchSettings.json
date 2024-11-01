@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "AutoResetLicenseManager": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "FUNCTION_TARGET": "AutoResetLicenseManager.License",
+        "GOOGLE_APPLICATION_CREDENTIALS": "auto-reset-muonline-b64d7e6dc370.json"
+      }
+    }
+  }
+}
